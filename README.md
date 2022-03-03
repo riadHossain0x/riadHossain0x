@@ -1,5 +1,5 @@
 <h2>Hi there, I'm Riad Hossain - aka [riadHossain0x]👋</h2>
-<h3>A undergraduate computer science student, .NET developer and iterator learner</h3>
+<h3>A undergraduate computer science student, .NET developer and iterate learner</h3>
 
 <a href="https://twitter.com/riadhossain0x" target="blank">
     <img src="https://img.shields.io/badge/-@riadHossain0x-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white" alt=""/>
