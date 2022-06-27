@@ -39,7 +39,7 @@
 
 - Database:
 
-  ![MsSQL](https://img.shields.io/badge/mssql-%23121011.svg?style=flat&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/oracle-003545?style=flat&logo=oracle&logoColor=white)
+  ![MsSQL](https://img.shields.io/badge/mssql-%23121011.svg?style=flat&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/oracle-003545?style=flat&logo=oracle&logoColor=white) ![DynamoDB](https://img.shields.io/badge/dynamodb-003545?style=flat&logo=dynamodb&logoColor=white)
 
 - DevOps tool and Hosting/SaaS:
 
