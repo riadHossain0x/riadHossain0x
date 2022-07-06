@@ -1,17 +1,12 @@
 <h2>Hi there, I'm Riad Hossain - aka [riadHossain0x]👋</h2>
 <h3>A undergraduate computer science student, .NET developer and iterate learner</h3>
 
-<a href="https://twitter.com/riadhossain0x" target="blank">
-    <img src="https://img.shields.io/badge/-@riadHossain0x-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white" alt=""/>
+<a href="https://facebook.com/riadhossain0x" target="blank">
+    <img src="https://img.shields.io/badge/-riadHossain0x-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white" alt=""/>
 </a>
 <a href="https://www.linkedin.com/in/riadhossain0x/" target="blank">
     <img src="https://img.shields.io/badge/-riadHossain0x-blue?style=flat&logo=Linkedin&logoColor=white" alt="riadHossain"/>
 </a>
-
-<a href="https://instagram.com/riadHossain0x" target="blank">
-    <img src="https://img.shields.io/badge/-@riadHossain0x-fb3958?style=flat&logo=instagram&logoColor=white" alt="riadHossain" />
-</a>
-
 <a target="_blank" href="https://iamriad.xyz/" target="_blank">
     <img alt="Blog" src="https://img.shields.io/badge/-website-4285F4?style=flat&logo=google-chrome&logoColor=white" />
 </a>
