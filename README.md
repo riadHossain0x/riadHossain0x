@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/-@riadHossain0x-fb3958?style=flat&logo=instagram&logoColor=white" alt="riadHossain" />
 </a>
 
-<a target="_blank" href="https://riadhossain0x.xyz" target="_blank">
+<a target="_blank" href="https://iamriad.xyz/" target="_blank">
     <img alt="Blog" src="https://img.shields.io/badge/-website-4285F4?style=flat&logo=google-chrome&logoColor=white" />
 </a>
 <a target="_blank" href="https://blog.riadhossain0x.xyz/" target="_blank">
