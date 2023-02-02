@@ -19,7 +19,6 @@
 - 🎓 Undergraduate student at [International University of Scholars](https://ius.edu.bd/)
 - 🌱 currently learning everything
 - 👯 looking to collaborate with other developers
-- 🥅 2022 Goals: Become a Full-stack .NET developer
 - ⚡ Fun fact: interest in historical events
 
 ## Languages and Tools:
@@ -30,7 +29,7 @@
   
 - Frameworks, Platforms and Libraries:
 
-  ![.NETCore](https://img.shields.io/badge/core-005571?style=flat&logo=dotnet) ![.NETFramework](https://img.shields.io/badge/framework-2343853D.svg?style=flat&logo=dotnet) ![Angular](https://img.shields.io/badge/angular-%23000.svg?style=flat&logo=angular&logoColor=white) ![EntityFramework](https://img.shields.io/badge/entity_framwork-%2343853D.svg?style=flat&logo=entityframework&logoColor=white) <!--![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) --> ![Ado.Net](https://img.shields.io/badge/ado.net-%23FF2D20.svg?style=flat&logo=ado.net&logoColor=white)
+  ![.NETCore](https://img.shields.io/badge/core-005571?style=flat&logo=dotnet) ![.NETFramework](https://img.shields.io/badge/framework-2343853D.svg?style=flat&logo=dotnet) ![Blazor](https://img.shields.io/badge/blazor-2343853D.svg?style=flat&logo=blazor) ![.NETMaui](https://img.shields.io/badge/maui-2343853D.svg?style=flat&logo=dotnet) ![Angular](https://img.shields.io/badge/angular-%23000.svg?style=flat&logo=angular&logoColor=white) ![EntityFramework](https://img.shields.io/badge/entity_framwork-%2343853D.svg?style=flat&logo=entityframework&logoColor=white) <!--![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) --> ![Ado.Net](https://img.shields.io/badge/ado.net-%23FF2D20.svg?style=flat&logo=ado.net&logoColor=white)
 
 - Database:
 
@@ -38,7 +37,7 @@
 
 - DevOps tool and Hosting/SaaS:
 
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%2343853D.svg?style=flat&logo=microsoft-azure&logoColor=white)
 
 - Environment:
 
